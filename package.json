@@ -18,5 +18,8 @@
   "homepage": "https://github.com/flowingcityloy/jest-another-PRG#readme",
   "devDependencies": {
     "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
